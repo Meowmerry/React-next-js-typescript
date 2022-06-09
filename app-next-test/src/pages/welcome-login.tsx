@@ -8,7 +8,7 @@ export default function Loging() {
     return (
         <>
          <div>welcome login</div>
-      {/* <button onClick={()=>router.push('/')}></button>*/}
+      <button onClick={()=>router.push('/')}></button>
      
       </> 
   )
